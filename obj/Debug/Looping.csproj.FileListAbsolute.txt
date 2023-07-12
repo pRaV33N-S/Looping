@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\Looping\bin\Debug\Looping.exe.config
+D:\Raven\Practice Exercise\C#\Looping\bin\Debug\Looping.exe
+D:\Raven\Practice Exercise\C#\Looping\bin\Debug\Looping.pdb
+D:\Raven\Practice Exercise\C#\Looping\obj\Debug\Looping.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\Looping\obj\Debug\Looping.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\Looping\obj\Debug\Looping.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\Looping\obj\Debug\Looping.exe
+D:\Raven\Practice Exercise\C#\Looping\obj\Debug\Looping.pdb
